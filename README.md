@@ -1,5 +1,4 @@
 ## Descripción
-=======
 `web_scraperF5` es un proyecto de scraping web diseñado para extraer datos de diversas fuentes en línea y almacenarlos en una base de datos MySQL. Este proyecto utiliza Python y varias bibliotecas para realizar el scraping y la gestión de la base de datos.
 
 ## Requisitos
