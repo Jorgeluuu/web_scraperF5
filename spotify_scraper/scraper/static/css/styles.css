@@ -27,7 +27,7 @@ header nav a:hover {
 h1 {
     color: #1DB954; /* Spotify green */
     text-align: center;
-    padding: 20px;
+    padding: 20px 0;
 }
 
 .container {
@@ -76,4 +76,10 @@ tr:nth-child(even) {
 
 #back-to-top:hover {
     background-color: #1ed760; /* Lighter green */
+}
+
+.form-container form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
