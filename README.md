@@ -29,7 +29,6 @@
     SPOTIPY_CLIENT_ID="tu_client_id"
     SPOTIPY_CLIENT_SECRET="tu_client_secret"
     SPOTIPY_REDIRECT_URI="https://127.0.0.1:8888/callback"
-    SPOTIPY_ACCESS_TOKEN="tu_token_de_acceso"
 
     mysql_username='root'
     mysql_password='root1'
