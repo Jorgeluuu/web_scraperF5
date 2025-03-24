@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-# web_scraperF5
-
 ## Descripción
 =======
->>>>>>> e6f76fab07eef5fecc064b0f7c8d875b95b7c448
 `web_scraperF5` es un proyecto de scraping web diseñado para extraer datos de diversas fuentes en línea y almacenarlos en una base de datos MySQL. Este proyecto utiliza Python y varias bibliotecas para realizar el scraping y la gestión de la base de datos.
 
 ## Requisitos
@@ -71,9 +67,6 @@
 
 ## Contribuciones
 Las contribuciones son bienvenidas. Por favor, abre un issue o un pull request para discutir cualquier cambio que te gustaría realizar.
-
-## Licencia
-<<<<<<< HEAD
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 =======
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
