@@ -30,10 +30,6 @@
     SPOTIPY_CLIENT_ID="tu_client_id"
     SPOTIPY_CLIENT_SECRET="tu_client_secret"
     SPOTIPY_REDIRECT_URI="https://127.0.0.1:8888/callback"
-<<<<<<< HEAD
-    SPOTIPY_ACCESS_TOKEN="tu_token_de_acceso"
-=======
->>>>>>> e6f76fab07eef5fecc064b0f7c8d875b95b7c448
 
     mysql_username='root'
     mysql_password='root1'
@@ -50,7 +46,7 @@
 
 2. Ejecuta el scraper:
     ```sh
-    python scraper.py
+    python manage.py scraper
     ```
 
 ## Despliegue con Docker
